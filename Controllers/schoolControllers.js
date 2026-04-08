@@ -27,7 +27,7 @@ function addSchool(req, res, next) {
 
       res.status(201).json({
         message: "School added successfully",
-        schoolId: result.id
+        schoolId: result.insertId
       });
 
     });
