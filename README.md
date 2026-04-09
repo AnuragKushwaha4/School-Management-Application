@@ -1,5 +1,5 @@
 # School Management API
-
+Live Link : https://school-management-application-production.up.railway.app
 A RESTful API built with **Node.js, Express.js, and MySQL** to manage school data.
 This API allows users to add schools and retrieve a list of schools sorted by proximity to a given geographical location.
 
